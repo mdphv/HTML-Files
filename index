@@ -1,0 +1,28 @@
+<html>
+<!-- https://www.a2hosting.com/kb/developer-corner/setting-up-url-frame-forwarding -->
+<!-- according to Internet research frame-sets are no longer supported and frames in general are being depreciated under HTML 5 -->
+<!-- X frame options keep this file from working with all sites -->
+<!-- see https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options for more about X frame -->
+<head>
+    <title>Title</title>
+</head>
+
+<style>
+body {
+    margin: 0;
+    padding: 0;
+}
+body, iframe { 
+    width: 100%;
+    height: 100%;
+}
+iframe {
+    border: 0;
+}
+</style>
+
+<body>
+    <iframe src="https://www.samplesite.com/">
+</body>
+
+</html>
