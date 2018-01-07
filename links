@@ -8,29 +8,68 @@
 <meta http-equiv="expires" content="0">
 <meta >
  <style type="text/css">
-      body {background-color: #2b303b;}
+      body {background-color: #2f333f;}
       p {color: #ffffff}
       a {color: #ffffff; text-decoration: none;}
+      h3 {color: #ffffff}
   </style>
 </head>
 <body>
-<p>The following are links to news sources and blogs.</p>
+<h3>The following are links to news sources and blogs.</h3>
+
+<h3>mngmt info sys journals</h3>
+<li><a href="https://misq.org/" target="_blank">mis quarterly ..... mis journal</a></li>
+<li><a href="https://pubsonline.informs.org/journal/isre" target="_blank">info sys research ..... mis journal</a></li>
+<li><a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2575" target="_blank">info sys journal ..... mis journal</a></li>
+<li><a href="http://aisel.aisnet.org/jais/" target="_blank">journal of ais ..... mis journal</a></li>
+<li><a href="http://www.jmis-web.org/issues" target="_blank">journal of mis ..... mis journal</a></li>
+<li><a href="https://www.journals.elsevier.com/the-journal-of-strategic-information-systems/" target="_blank">journal of sis ..... mis journal</a></li>
+
+<h3>computer security</h3>
 <li><a href="http://www.krebsonsecurity.com/" target="_blank">krebsonsecurity.com ..... computer security blog</a></li>
 <li><a href="https://www.schneier.com/" target="_blank">schneier.com ..... computer security blog</a></li>
 <li><a href="https://lawfareblog.com/" target="_blank">lawfareblog.com ..... cyber security, secrecy, surveillance</a></li>
 <li><a href="http://www.cert.org/" target="_blank">cert.org ..... carnegie mellon CERT</a></li>
 <li><a href="http://www.heinz.cmu.edu/index.aspx" target="_blank">heinz.cmu.edu ..... carnegie mellon policy inst</a></li>
 <li><a href="https://www.us-cert.gov/" target="_blank">us-cert.gov ..... dept of homeland security CERT</a></li>
+<li><a href="https://cylab.cmu.edu/" target="_blank">cylab.cmu.edu ..... carnegie mellon cylab</a></li>
 <li><a href="https://security.utexas.edu/" target="_blank">security.utexas.edu ..... security policies</a></li>
 <li><a href="https://it.utexas.edu/" target="_blank">it.utexas.edu ..... security policies</a></li>
 <li><a href="https://cyber.harvard.edu/" target="_blank">cyber.harvard.edu ..... berkman center</a></li>
 <li><a href="https://isc.sans.edu/" target="_blank">isc.sans.edu ..... sans internet storm center</a></li>
 <li><a href="https://www.csis.org/topics/cybersecurity-and-technology" target="_blank">csis.org/cyber ..... defense think tank</a></li>
+<li><a href="https://www.hackerone.com/blog" target="_blank">hackerone.com/blog ..... hacker blog</a></li>
+<li><a href="https://www.phishlabs.com/" target="_blank">phishlabs.com ..... phishlabs blog</a></li>
 &nbsp;
+<h3>text editors</h3>
 <li><a href="https://atom.io/" target="_blank">atom.io ..... text editor</a></li>
 <li><a href="http://www.geany.org/" target="_blank">geany.org ..... text editor</a></li>
+<li><a href="https://www.jetbrains.com/" target="_blank">jetbrains.com ..... text editor</a></li>
 &nbsp;
+<h3>coding blogs</h3>
 <li><a href="https://projecteuler.net/" target="_blank">projecteuler.net ..... site for math and computer exercises</a></li>
 <li><a href="https://blog.hackerrank.com/" target="_blank">blog.hackerrank.com ..... site for computer exercixes</a></li>
+<li><a href="https://www.joelonsoftware.com/" target="_blank">joelonsoftware.com ..... joel splosky blog</a></li>
+<li><a href="https://blog.codinghorror.com/" target="_blank">blog.codinghorror.com ..... jeff atwood blog</a></li>
+<h3>consulting firms</h3>
+<li><a href="http://www.mckinsey.com/" target="_blank">mckinsey.com ..... consultant insights</a></li>
+<li><a href="http://www.gartner.com/technology/home.jsp" target="_blank">gartner.com ..... consultant insights</a></li>
+<li><a href="http://www.exigent.net/blog/" target="_blank">exigent.net ..... consultant insights</a></li>
+<li><a href="http://www.fogcreek.com/" target="_blank">fogcreek.com ..... consultant insights</a></li>
+<li><a href="http://www.construx.com/Home/" target="_blank">construx.com..... consultant insights</a></li>
+&nbsp;
+<h3>policy</h3>
+<li><a href="https://bipartisanpolicy.org/" target="_blank">bipartisanpolicy.org..... political policy</a></li>
+<li><a href="http://computerethicsinstitute.org/home.html" target="_blank">computerthicsinstitute.org..... computer ethics</a></li>
+<li><a href="https://www.hudson.org/" target="_blank">hudson.org..... conservative policy</a></li>
+<li><a href="https://www.cato.org/" target="_blank">cato.org..... libertarian policy</a></li>
+&nbsp;
+<h3>other blogs</h3>
+<li><a href="http://blueacorn.com/blog/" target="_blank">blueacorn.com/blog..... ecommerce blog</a></li>
+<li><a href="https://www.ectnews.com/" target="_blank">ectnews.com..... ecommerce blog</a></li>
+<li><a href="https://fedtechmagazine.com/" target="_blank">fedtechmagazine.com ..... CDW blog</a></li>
+&nbsp;
+<h3>other computer topics</h3>
+<li><a href="https://en.wikipedia.org/wiki/Ronald_Wayne" target="_blank">wikipedia.org/ronald_wayne ..... apple co-founder</a></li>
 </body>
 </html>
